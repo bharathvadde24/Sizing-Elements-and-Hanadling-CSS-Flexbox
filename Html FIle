@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="white-card">
+            <p class="head">Start Musical Night</p>
+            <hr />
+            <div class="card-body">
+                <img src="https://assets.ccbp.in/frontend/intermediate-rwd/musical-night-1-img.png" class="image1" />
+                <h1 class="heading">We bring you on;ine experiences to make sure you've got an exciting plan every day.</h1>
+                <p class="para">We still we have fun and we are much more confident on this as we already had seen some of the width multiple online events!</p>
+                <h1 class="heading">About the Event</h1>
+                <p class="para">We humans, are social creature. While many of user making the best of this time, we're much better together than apart.</p>
+
+                <img class="second-image" src="https://assets.ccbp.in/frontend/intermediate-rwd/musical-night-2-img.png" alt="tct" />
+                <img class="second-image" src="https://assets.ccbp.in/frontend/intermediate-rwd/musical-night-3-img.png" alt="tvt" />
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
